@@ -12,8 +12,8 @@ Nature of Problem
     Is this dataset different from that dataset?
     
 2) Classification
-    2.1) Given a known class, how well can a trained model classify unknown data.
+    2.1) Given a known class, how well can a trained model classify unknown data.</br> 
     
-    2.2) Can the classification of unknonw data to a particular class be evidence for unknown data to be classified?
-    
-3) Ad-hoc Clustering
+    2.2) Can the classification of unknonw data to a particular class be evidence for unknown data to be classified?</br> 
+
+Ad-hoc Clustering
