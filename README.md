@@ -12,8 +12,8 @@ Financial figures of a select number of companies across a 13 year timeframe. </
     1) Is this dataset different from that dataset?
     
 2) Classification</br> 
-    2.1) Given a known class (y), how well can a trained model classify unknown data (X).</br> 
+    1) Given a known class (y), how well can a trained model classify unknown data (X).</br> 
     
-    2.2) Can the classification of X to y be evidence for X == y ?</br> 
+    2) Can the classification of X to y be evidence for X == y ?</br> 
 
 Ad-hoc Clustering
