@@ -3,10 +3,10 @@ Web Scraping SEC Financial Statements Balance Sheet
 
 Each folder has Part 1 and part 2. 
 
-Part1 - Aquiring and Parsing html code for each filing. 
+**Part1 - Aquiring and Parsing html code for each filing. </br>**
 Output - Each filing is saved as a CSV file, multiple CSV files delimited by year.  
 
-Part2 - Concatenating each filing into a row of a dataframe. 
+**Part2 - Concatenating each filing into a row of a dataframe. </br>**
 Output - Single Dataframe for stated company and certain period. 
 
 Limitations - Variations within company filing over the years are inconsistent. Need to manually go through to finesse parsing specific periods. 
